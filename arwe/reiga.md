@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: cuan12345678
+- github account: https://github.com/Cuan12345678
 - Email: slevicie123@gmail.com
 - Arweave Address: qssNUoDZplGcM-QuLy-ydpLpUKOHAnhE3G4GTkWO8Ww
 - ETH Address: 0x183A27Efd81ebead9e30bd087F2bA5125461e533
